@@ -5,7 +5,7 @@ A simple web project to switch between different seasons **(🌸 Spring, 🌞 Su
 ---
 
 ## 🚀 Live Demo
-🌐 [Click here to view the project](https://aishwarya152.github.io/seasons_switcher/)
+🌐 [Click here to view the project](https://aishwarya152.github.io/season_switcher/)
 
 
 ## 📖 About the Project
