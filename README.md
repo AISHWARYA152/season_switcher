@@ -5,8 +5,9 @@ A simple web project to switch between different seasons **(🌸 Spring, 🌞 Su
 ---
 
 ## 🚀 Live Demo
-🌐 [Click here to view the project](https://aishwarya152.github.io/season_switcher/)
+🌐 [Click here to view the project](https://aishwarya152.github.io/season_switcher/) 
 
+---
 
 ## 📖 About the Project
 Seasons Switcher is a simple web project that lets users switch between **different seasons** (🌸 Spring, 🌞 Summer, 🍂 Autumn, ❄ Winter) with a single click.  
